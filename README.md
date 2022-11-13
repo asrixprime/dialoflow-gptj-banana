@@ -9,7 +9,7 @@ conda create -n nodejs-env nodejs
 
 2) Clone the following repo with all the dependencies:
 ```
-git clone https://github.com/abuelgasimsaadeldin/dialogflow-gptj2.git  
+git clone https://github.com/abuelgasimsaadeldin/dialogflow-gptj-banana.git  
 ```
 
 3) Create .env file and place following: 
@@ -24,7 +24,7 @@ npm install
 
 5) Run the API:
 ```
-node dialogflowgptj2.js
+node dialogflowgptj-banana.js
 ```
 
 6) Use ngrok to make localhost public
