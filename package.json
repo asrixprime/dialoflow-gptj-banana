@@ -1,12 +1,12 @@
 {
-  "name": "dialogflowgptj2",
+  "name": "dialogflowgptjbanana",
   "version": "1.0.0",
   "description": "",
-  "main": "dialogflowgptj2.js",
+  "main": "dialogflowgptjbanana.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node dialogflowgptj2.js",
-    "dev": "nodemon ./dialogflowgptj2.js"
+    "start": "node dialogflowgptjbanana.js",
+    "dev": "nodemon ./dialogflowgptjbanana.js"
   },
   "author": "",
   "license": "ISC",
