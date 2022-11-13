@@ -8,7 +8,7 @@ const fetch = require('node-fetch');
 const banana = require('@banana-dev/banana-dev');
 
 app.get('/', (req,res) => {
-    res.send('Welcome to Dialogflow-GPTJ2 Application!!');
+    res.send('Welcome to Dialogflow-GPTJ Banana Application!!');
 })
 
 app.post("/dialogflow", express.json(), (req, res) => {
